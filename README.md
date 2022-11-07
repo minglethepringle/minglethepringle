@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **surviving my coursework**
 
-- 🌱 I’m currently learning **how to operate on 5 hours of sleep**
+- 🌱 I’m currently learning **how to operate on 2 hours of sleep**
 
 - 👯 I’m looking to collaborate on **algo homework**
 
