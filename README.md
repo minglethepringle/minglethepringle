@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mingle Li</h1>
-<h3 align="center">Software Engineer, Student at Northeastern University</h3>
+<h1 align="left">Hi, I'm Mingle Li! 👋</h1>
+<h3 align="left">Software Engineer, Student at Northeastern University</h3>
 
 - 🔭 I’m currently working on **surviving my coursework**
 
@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **how to get 1000+ contributions on Piazza**
 
-- 📫 How to reach me **mingle.g.li@gmail.com**
+- 📫 How to reach me: **mingle.g.li@gmail.com**
 
-- 📄 Know about my experiences [https://mingleli.com/resume.pdf](https://mingleli.com/resume.pdf)
+- 📄 Know about my experiences: [My Resume](https://mingleli.com/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
