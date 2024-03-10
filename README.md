@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **how to stop distracting myself with Rocket League**
 
-- 👯 I’m looking to collaborate on **algo homework**
+- 👯 I’m looking to collaborate on **my class homework**
 
-- 🤝 I’m looking for help with **finding a co-op**
+- 🤝 I’m looking for help with **finding a full-time job**
 
 - 💬 Ask me about **how to get 1000+ contributions on Piazza**
 
 - 📫 How to reach me: **mingle.g.li@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://mingleli.com/resume.pdf)
+- 📄 Know about my experiences: [My Resume](https://www.mingleli.com/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
