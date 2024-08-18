@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Mingle Li! 👋</h1>
-<h3 align="left">Software Engineer, Student at Northeastern University</h3>
+<h3 align="left">Incoming Associate Software Engineer at eMoney Advisor, Student at Northeastern University</h3>
 
 - 🔭 I’m currently working on **surviving my coursework**
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **my class homework**
 
-- 🤝 I’m looking for help with **finding a full-time job**
+- 🤝 I’m looking for help with **getting good at Team Fortress 2 Spy**
 
 - 💬 Ask me about **how to get 1000+ contributions on Piazza**
 
