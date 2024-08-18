@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **my class homework**
 
-- 🤝 I’m looking for help with **getting good at Team Fortress 2 Spy**
+- 🤝 I’m looking for help with **my dry eyes after looking at the computer screen too much**
 
 - 💬 Ask me about **how to get 1000+ contributions on Piazza**
 
